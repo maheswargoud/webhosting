@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: static
-        image: 861531569385.dkr.ecr.us-east-2.amazonaws.com/webhosting:number
+        image: 861531569385.dkr.ecr.us-east-2.amazonaws.com/webhosting:number .
         ports:
         - containerPort: 80
